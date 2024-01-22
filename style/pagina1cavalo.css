@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+}
+
+.header {
+    width: 1185px;
+    height: 883px;
+}
+
+.prox-bt {
+    margin-left: 20px;
+    margin-top: 100px;
+    width: 300px;
+    height: 100px;
+}
+
+.titulo-project {
+    margin-top: 395px;
+    width: 600px;
+    height: 350px;
+}
+
+.logo-goal2 {
+    width:  1px;
+    height: 1px;
+}
+
+.button-go {    
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+}
+
+.button-go:hover {
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+
+}
+
+.project-nome {
+    margin-top: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 80px;
+}
+
+.project-data {
+    margin-top: 40px;
+    font-weight: 100;
+    font-size: 30px;
+}

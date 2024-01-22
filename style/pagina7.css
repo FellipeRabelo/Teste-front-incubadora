@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: "IBM Plex Sans";
+    display: flex;
+    background-color: #E5E5E5;
+
+}
+
+.box-1 {
+    margin
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 700px;
+
+}
+
+.box-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 700px;
+
+}
+
+.img-figma-box2 {
+    width: 319px;
+    height: 445px;
+}
+
+.box-text-1 {
+    width: 400px;
+    height: 500px;
+
+}
+
+.text-about-header {
+    font-size: 50px;
+
+}
+
+.text-about-header2 {
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.text-about-header3 {
+    margin-top: 20px;
+
+}
+
+.text-about-header4 {
+    cursor: pointer;
+    color: #007E42;
+    margin-top: 20px;
+
+}
+
+.button-back-go {    
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+}
+
+.button-back-go:hover {
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+
+}

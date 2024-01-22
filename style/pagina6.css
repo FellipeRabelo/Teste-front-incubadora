@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    overflow: hidden;
+    background-color: #E5E5E5;
+}
+
+.header {
+    display: flex;
+    height: 400px;
+    width: 100%;
+    justify-content: center;
+    align-items: flex-end;
+ 
+
+}
+
+.box-2-text-img {
+    display: flex;
+    height: 539px;
+    width: 100%;
+
+ 
+}
+
+.text-2 {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+}
+
+.img-box {
+    background-color: black;
+    width: 695px;
+    height: 632px;
+}
+
+.text-and-text2 {
+    display: flex;
+    align-items: center;
+    width: 1500px;
+    height: 190px;
+}
+
+.img-header-box {
+    margin-top: 200px;
+    width: 695px;
+    height: 632px;
+    
+}
+
+.text-next {
+    font-family: "IBM Plex Sans";
+    font-size: 80px;
+}
+
+.box-text-next {
+    width: 800;
+    height: 190px;
+}
+
+.box-text-next {
+    display: flex;
+    align-items: center;
+}
+
+.box-left-1 {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    width: 1000px;
+    height: 190px;
+}
+
+.box-left-2 {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    width: 1000px;
+    height: 190px;
+}
+
+.boll-detail-text-1 {
+    font-family: "IBM Plex Sans";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    border-radius: 50%;
+    background-color: #FF94E1;
+    width: 100px;
+    height: 100px;
+
+}
+
+.boll-detail-text-2 {
+    font-family: "IBM Plex Sans";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    border-radius: 50%;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.boll-detail-text-3 {
+    font-family: "IBM Plex Sans";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    border-radius: 50%;
+    background-color: #3FBE81;
+    width: 100px;
+    height: 100px;
+} 
+
+.detail-1 {
+    font-size: 50px;
+
+}
+
+.detail-2 {
+    font-size: 50px;
+}
+
+.text-1-header {
+    display: flex;
+    align-items: center;
+    height: 190px;
+    width: 800px;
+}
+
+.text-sub-1 {
+    margin-left: 50px;
+    font-family: "IBM Plex Sans";
+    font-size: 20px;
+    size: 30px;
+}
+
+.button-back-go {    
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+}
+
+.button-back-go:hover {
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+
+}
